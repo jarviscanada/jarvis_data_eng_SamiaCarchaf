@@ -1,3 +1,6 @@
+# SQL Club Database Project
+
+---
 # Introduction
 This project contains SQL queries practiced using a PostgreSQL database
 and the pgexercises.com exercises.  
