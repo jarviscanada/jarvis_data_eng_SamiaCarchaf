@@ -21,6 +21,12 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SamiaCarch
   - Provisioned a PostgreSQL database with Docker for persistent storage.
   - Automated continuous data collection every minute using crontab, enabling real-time cluster monitoring for the LCA team.
 
+**SQL Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SamiaCarchaf/tree/master/sql)]:
+      
+  - Designed and implemented a relational database schema using PostgreSQL, applying normalization principles (1NF, 2NF, 3NF) and enforcing data integrity through primary keys, foreign keys, and constraints.
+  - Developed complex SQL queries including multi-table joins, self-joins, subqueries, aggregations, and window functions to extract meaningful insights from a club management dataset.
+  - Leveraged DBeaver as a SQL IDE and Docker for database containerization.
+
 
 ## Highlighted Projects
 **Credit Card Fraud Detection** [[GitHub](https://github.com/samias9/fraude_bancaire)]: Developed a fraud detection system analyzing 590K+ transactions from the IEEE-CIS dataset using XGBoost. Addressed extreme class imbalance (0.3% fraud rate) using SMOTE and class weight adjustment. Designed a Power BI dashboard for real-time monitoring of suspicious transactions. Technologies used: Python, XGBoost, SMOTE, scikit-learn, Pandas, Power BI.

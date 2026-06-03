@@ -36,6 +36,15 @@
       ],
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
+    },
+    {
+      "description": [
+        "Designed and implemented a relational database schema using PostgreSQL, applying normalization principles (1NF, 2NF, 3NF) and enforcing data integrity through primary keys, foreign keys, and constraints.",
+        "Developed complex SQL queries including multi-table joins, self-joins, subqueries, aggregations, and window functions to extract meaningful insights from a club management dataset.",
+        "Leveraged DBeaver as a SQL IDE and Docker for database containerization."
+      ],
+      "git_url": "/sql",
+      "name": "SQL Data Analytics"
     }
   ],
   "name": "Samia Carchaf",

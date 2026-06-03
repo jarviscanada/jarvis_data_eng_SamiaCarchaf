@@ -36,6 +36,12 @@ jarvis_projects:
       - "Designed and implemented a Linux Cluster Monitoring Agent to collect hardware specifications and real-time resource usage data from Linux servers."
       - "Provisioned a PostgreSQL database with Docker for persistent storage."
       - "Automated continuous data collection every minute using crontab, enabling real-time cluster monitoring for the LCA team."
+  - name: "SQL Data Analytics"
+    git_url: "/sql"
+    description:
+      - "Designed and implemented a relational database schema using PostgreSQL, applying normalization principles (1NF, 2NF, 3NF) and enforcing data integrity through primary keys, foreign keys, and constraints."
+      - "Developed complex SQL queries including multi-table joins, self-joins, subqueries, aggregations, and window functions to extract meaningful insights from a club management dataset."
+      - "Leveraged DBeaver as a SQL IDE and Docker for database containerization."
 #  - name: "Core Java Apps"
 #    git_url: "/core_java"
 #    description:
