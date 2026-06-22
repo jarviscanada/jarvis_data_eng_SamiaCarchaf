@@ -1,12 +1,12 @@
 # Samia Carchaf . Jarvis Consulting
 
-I recently completed a Master's degree in Computer Science with a specialization in Artificial Intelligence from UQAC and a Software Engineering degree from Polytech Tours, and have been building hands-on data engineering experience through projects at Jarvis Consulting Group. My background includes working with Python, SQL, PostgreSQL, Docker, Bash scripting, and Linux to build data collection, automation, and infrastructure solutions. What excites me most about the data industry is the opportunity to solve real business problems with technology while continuously learning new tools and systems. I am especially passionate about the intersection of machine learning and data engineering, combining analytical thinking with practical, scalable implementations.
+I recently completed a Master's degree in Computer Science with a specialization in Artificial Intelligence from UQAC and a Software Engineering degree from Polytech Tours, and have been building hands-on experience in machine learning and data engineering through projects at Jarvis Consulting Group. My background includes working with Python, SQL, PostgreSQL, Docker, Bash scripting, and Linux to build data collection, automation, and infrastructure solutions. What excites me most about the AI and machine learning industry is the opportunity to solve real business problems with technology while continuously learning new tools and systems. I am especially passionate about the intersection of machine learning and data engineering, combining analytical thinking with the development of practical and scalable solutions.
 
 ## Skills
 
 **Proficient:** Python, Linux/Bash, RDBMS/SQL, Docker, Git
 
-**Competent:** Machine Learning, Agile/Scrum, Power BI, RDBMS, Bash Scripting
+**Competent:** Machine Learning, Agile/Scrum, Power BI, Data Modeling, Bash Scripting
 
 **Familiar:** Java, Azure ML, AWS, MLflow, Tableau
 
@@ -21,11 +21,16 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SamiaCarch
   - Provisioned a PostgreSQL database with Docker for persistent storage.
   - Automated continuous data collection every minute using crontab, enabling real-time cluster monitoring for the LCA team.
 
-**SQL Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SamiaCarchaf/tree/master/sql)]:
+**RDBMS and SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SamiaCarchaf/tree/master/sql)]:
       
-  - Designed and implemented a relational database schema using PostgreSQL, applying normalization principles (1NF, 2NF, 3NF) and enforcing data integrity through primary keys, foreign keys, and constraints.
-  - Developed complex SQL queries including multi-table joins, self-joins, subqueries, aggregations, and window functions to extract meaningful insights from a club management dataset.
-  - Leveraged DBeaver as a SQL IDE and Docker for database containerization.
+  - Designed and implemented a relational database schema using PostgreSQL, applying normalization principles and enforcing data integrity through primary keys, foreign keys, and constraints.
+  - Wrote optimized SQL queries to answer business questions.
+
+**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SamiaCarchaf/tree/master/python_data_analytics)]:
+      
+  - Built an end-to-end Python analytics pipeline on the U.S. CFPB Consumer Complaint Database.
+  - Conducted data profiling, cleaning, and feature engineering with Pandas, including company-tier segmentation and time-series trends.
+  - Produced interactive visualizations across 7 key findings, including market concentration, product mix evolution, and a seven-dimension Bureau Accountability Scorecard.
 
 
 ## Highlighted Projects
@@ -57,4 +62,3 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SamiaCarch
 - Data Analytics (IBM): ID: 25UDNA8FVK48
 - French (Native)
 - English (Professional - TOEIC 890/990)
-- Arabic (Native)
