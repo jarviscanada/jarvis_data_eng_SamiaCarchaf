@@ -1,0 +1,19 @@
+# Data (never commit raw Kaggle files)
+data/*.csv
+!data/.gitkeep
+
+# Models
+models/*.pkl
+!models/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.vscode/
