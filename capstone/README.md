@@ -1,8 +1,7 @@
 # Home Credit Default Risk — Capstone (Module 1)
 
 Système de scoring de crédit end-to-end construit sur le dataset Kaggle
-[Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/data),
-dans le cadre du Financial Services ML Training Program.
+[Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/data).
 
 ## Structure du projet
 
