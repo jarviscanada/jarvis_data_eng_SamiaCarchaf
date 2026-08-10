@@ -1,12 +1,12 @@
 # Samia Carchaf . Jarvis Consulting
 
-I recently completed a Master's degree in Computer Science with a specialization in Artificial Intelligence from UQAC and a Software Engineering degree from Polytech Tours, and have been building hands-on experience in machine learning and data engineering through projects at Jarvis Consulting Group. My background includes working with Python, SQL, PostgreSQL, Docker, Bash scripting, and Linux to build data collection, automation, and infrastructure solutions. What excites me most about the AI and machine learning industry is the opportunity to solve real business problems with technology while continuously learning new tools and systems. I am especially passionate about the intersection of machine learning and data engineering, combining analytical thinking with the development of practical and scalable solutions.
+I recently completed a Master's degree in Computer Science with a specialization in Artificial Intelligence from UQAC and a Software Engineering degree from Polytech Tours, and have been building hands-on experience in machine learning and data engineering through projects at Jarvis Consulting Group. My background includes working with Python, SQL, PostgreSQL, Docker, Bash scripting, and Linux to build data collection, automation, and infrastructure solutions. I'm particularly focused on using AI and machine learning to make development processes smarter and more efficient, not just as an end product, but as a tool woven into the way I build software.
 
 ## Skills
 
-**Proficient:** Python, Linux/Bash, RDBMS/SQL, Docker, Git
+**Proficient:** Python, Machine Learning, Linux/Bash, RDBMS/SQL, Docker, Git
 
-**Competent:** Machine Learning, Agile/Scrum, Power BI, Data Modeling, Databricks
+**Competent:** Agile/Scrum, Power BI, Data Modeling, Databricks, Apache Spark
 
 **Familiar:** Java, Azure ML, AWS, MLflow, Tableau
 
