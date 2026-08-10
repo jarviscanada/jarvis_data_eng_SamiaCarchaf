@@ -20,7 +20,7 @@ skills:
     - Agile/Scrum
     - Power BI
     - Data Modeling
-    - Bash Scripting
+    - Databricks
   familiar:
     - Java
     - Azure ML
@@ -47,6 +47,26 @@ jarvis_projects:
       - "Built an end-to-end Python analytics pipeline on the U.S. CFPB Consumer Complaint Database."
       - "Conducted data profiling, cleaning, and feature engineering with Pandas, including company-tier segmentation and time-series trends."
       - "Produced interactive visualizations across 7 key findings, including market concentration, product mix evolution, and a seven-dimension Bureau Accountability Scorecard."
+  - name: "Spark"
+    git_url: "/databricks/pyspark"
+    description:
+      - "Provisioned a Hadoop cluster on GCP Dataproc and set up a Hive external table on HDFS to store the World Development Indicators (WDI) dataset (~21.7M rows)."
+      - "Wrote PySpark DataFrame operations in a Zeppelin notebook, using filtering, groupBy aggregations, and joins."
+      - "Analyzed historical GDP growth trends by country, including identifying each country's peak GDP growth year through DataFrame transformations."
+  - name: "Databricks"
+    git_url: "/databricks"
+    description:
+      - "Built a batch ETL pipeline in Azure Databricks for fraud detection analytics, ingesting transaction, card, user, merchant, and fraud-label data from Azure SQL Database and ADLS Gen2 into a Bronze/Silver/Gold medallion architecture, producing 6 gold tables for a Databricks fraud analytics dashboard."
+      - "Built a DLT (Lakeflow Declarative Pipelines) pipeline ingesting daily stock market data from the Alpha Vantage API, computing 7/30/90-day price and volume trend metrics using Spark window functions."
+      - "Applied SCD Type 1 change tracking, designed streaming tables vs. materialized views based on data update patterns, and secured API credentials using Databricks secret scopes."
+      - "Orchestrated both pipelines with Databricks Jobs on daily schedules, including automated dashboard refresh, and used Unity Catalog for governed table management across both projects."
+  - name: "Credit Default Risk Scoring"
+    git_url: "/capstone"
+    description:
+      - "Built an end-to-end credit scoring pipeline on the Home Credit Default Risk dataset (Kaggle), covering EDA, preprocessing, and feature engineering across ~307K loan applications and 122 features."
+      - "Engineered features including financial ratios, missingness indicators, and bureau credit history aggregations, validated through correlation and multicollinearity (VIF) analysis."
+      - "Trained and compared Logistic Regression, Random Forest, and Gradient Boosting models using AUROC, Gini, KS, and AUPRC metrics."
+      - "Developed a production-ready Scikit-learn Pipeline and generated model validation documentation following financial industry best practices."
 #  - name: "Core Java Apps"
 #    git_url: "/core_java"
 #    description:
@@ -83,7 +103,7 @@ professional_experience:
   - title: "Machine Learning Engineer"
     company: "Jarvis"
     duration: "2026-present"
-    description: "Collaborated within Agile/Scrum teams on diverse software and data-driven projects."
+    description: "Worked in an Agile, GitFlow-based development environment, delivering hands-on machine learning and data engineering projects, including predictive modeling, ETL and DLT pipelines, customer segmentation, and model explainability, using Python, SQL, Apache Spark, Databricks, and cloud platforms."
   - title: "Data Infrastructure Manager"
     company: "Médecins francophones du Canada"
     duration: "2026-01 to 2026-04"
