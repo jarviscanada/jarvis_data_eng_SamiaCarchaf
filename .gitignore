@@ -1,1 +1,8 @@
 .idea/
+get-pip.py
+profile/
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
