@@ -1,0 +1,8 @@
+.venv/
+.env
+models/
+data/raw/
+data/processed/*.jsonl
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

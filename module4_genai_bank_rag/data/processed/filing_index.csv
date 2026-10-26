@@ -1,0 +1,11 @@
+bank,document_type,fiscal_year,quarter,filing_date,file,pages,chunks,tokens
+Bank of Montreal,Annual Report,2024,Annual,2024-12-05,BMO_annual_report_FY2024.pdf,211,339,272223
+Bank of Montreal,Annual Report,2025,Annual,2025-12-04,BMO_annual_report_FY2025.pdf,207,314,252971
+Bank of Nova Scotia,Annual Report,2024,Annual,2024-12-03,BNS_annual_report_FY2024.pdf,236,359,292827
+Bank of Nova Scotia,Annual Report,2025,Annual,2025-12-02,BNS_annual_report_FY2025.pdf,236,358,291304
+Canadian Imperial Bank of Commerce,Annual Report,2024,Annual,2024-12-05,CIBC_annual_report_FY2024.pdf,211,354,285512
+Canadian Imperial Bank of Commerce,Annual Report,2025,Annual,2025-12-04,CIBC_annual_report_FY2025.pdf,200,332,265428
+Royal Bank of Canada,Annual Report,2024,Annual,2024-12-04,RBC_annual_report_FY2024.pdf,250,365,299403
+Royal Bank of Canada,Annual Report,2025,Annual,2025-12-03,RBC_annual_report_FY2025.pdf,223,328,269154
+Toronto-Dominion Bank,Annual Report,2024,Annual,2024-12-04,TD_annual_report_FY2024.pdf,244,412,334246
+Toronto-Dominion Bank,Annual Report,2025,Annual,2025-12-03,TD_annual_report_FY2025.pdf,244,401,320721
